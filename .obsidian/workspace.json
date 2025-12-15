@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templates/course.md",
+                "file": "to_help_you/Промпт для генерации курсов (сырой).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "course"
+              "title": "Промпт для генерации курсов (сырой)"
             }
           },
           {
@@ -194,7 +194,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 315.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -208,11 +208,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e80ba9ca599c615c",
+  "active": "645d20c5ede8d4b3",
   "lastOpenFiles": [
-    "to_help_you/Пример работы промта.md",
+    "courses/От Прокрастинации к потоку - Основы Эффективного Тайм Менеджмента.md",
     "to_help_you/Промпт для генерации курсов (сырой).md",
+    "to_help_you/Промпт для генерации курсов.md",
+    "courses/Критическое мышление с нуля.md",
     "templates/course.md",
+    "to_help_you/Пример работы промта.md",
     "courses/Example Course.md",
     "to_help_you",
     "courses",
