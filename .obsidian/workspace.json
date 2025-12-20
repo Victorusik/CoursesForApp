@@ -25,10 +25,14 @@
             "id": "4cf251ccc3a0a6db",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "courses/Критическое мышление с нуля.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Новая вкладка"
+              "title": "Критическое мышление с нуля"
             }
           }
         ],
@@ -207,9 +211,10 @@
   },
   "active": "4cf251ccc3a0a6db",
   "lastOpenFiles": [
+    "courses/Архитектор решений.json",
+    "courses/Текстовый документ.txt",
     "courses/Критическое мышление с нуля.json",
     "courses/Критическое мышление с нуля.txt",
-    "courses/Текстовый документ.txt",
     "Без названия.md",
     "to_help_you/Промпт для генерации курсов 1.md",
     "to_help_you/Промпт для генерации курсов 2.md",
