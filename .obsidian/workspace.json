@@ -25,17 +25,14 @@
             "id": "4cf251ccc3a0a6db",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "to_help_you/Промпт для генерации курсов (сырой).md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Промпт для генерации курсов (сырой)"
+              "title": "Новая вкладка"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -58,7 +55,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Файловый менеджер"
             }
           },
           {
@@ -198,20 +195,24 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "bases:Create new base": false,
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "bases:Создать новую базу": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "645d20c5ede8d4b3",
+  "active": "4cf251ccc3a0a6db",
   "lastOpenFiles": [
-    "to_help_you/Промпт для генерации курсов 2.md",
+    "courses/Критическое мышление с нуля.json",
+    "courses/Критическое мышление с нуля.txt",
+    "courses/Текстовый документ.txt",
+    "Без названия.md",
     "to_help_you/Промпт для генерации курсов 1.md",
+    "to_help_you/Промпт для генерации курсов 2.md",
     "courses/От Прокрастинации к потоку - Основы Эффективного Тайм Менеджмента.md",
     "to_help_you/Промпт для генерации курсов.md",
     "courses/Критическое мышление с нуля.md",
